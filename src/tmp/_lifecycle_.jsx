@@ -16,11 +16,13 @@ class App extends React.Component {
     // this.setState({ count: this.state.count + 1 });
     this.setState(crt => ({ count: crt.count + 1 }));
   };
+
   minus = () => {
     console.log("Minuis");
     // this.setState({ count: this.state.count - 1 })
     this.setState(crt => ({ count: crt.count - 1 }));
   };
+  
   // render -> ____
   componentDidMount() {
     console.log("component rendered");
