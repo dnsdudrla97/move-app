@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dnsdudrla97/move-app/static/css/main.09e0a9c7.chunk.css",
+    "main.js": "/dnsdudrla97/move-app/static/js/main.b3bdd56f.chunk.js",
+    "main.js.map": "/dnsdudrla97/move-app/static/js/main.b3bdd56f.chunk.js.map",
+    "runtime-main.js": "/dnsdudrla97/move-app/static/js/runtime-main.6061a7e4.js",
+    "runtime-main.js.map": "/dnsdudrla97/move-app/static/js/runtime-main.6061a7e4.js.map",
+    "static/js/2.1c14cd22.chunk.js": "/dnsdudrla97/move-app/static/js/2.1c14cd22.chunk.js",
+    "static/js/2.1c14cd22.chunk.js.map": "/dnsdudrla97/move-app/static/js/2.1c14cd22.chunk.js.map",
+    "index.html": "/dnsdudrla97/move-app/index.html",
+    "precache-manifest.19d83a80e99b5d5956df1bf539c1ecc3.js": "/dnsdudrla97/move-app/precache-manifest.19d83a80e99b5d5956df1bf539c1ecc3.js",
+    "service-worker.js": "/dnsdudrla97/move-app/service-worker.js",
+    "static/css/main.09e0a9c7.chunk.css.map": "/dnsdudrla97/move-app/static/css/main.09e0a9c7.chunk.css.map",
+    "static/js/2.1c14cd22.chunk.js.LICENSE.txt": "/dnsdudrla97/move-app/static/js/2.1c14cd22.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6061a7e4.js",
+    "static/js/2.1c14cd22.chunk.js",
+    "static/css/main.09e0a9c7.chunk.css",
+    "static/js/main.b3bdd56f.chunk.js"
+  ]
+}
